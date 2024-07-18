@@ -1,0 +1,8 @@
+# Ignore the AppData directory
+AppData/
+
+# Ignore all log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
